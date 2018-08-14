@@ -1,35 +1,35 @@
 {
-  "name": "eslint-config-edited",
-  "version": "1.0.0",
-  "description": "A shareable ESLint config for the EDITED styleguide",
-  "main": "index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/EDITD/eslint-config-edited"
-  },
-  "keywords": [
-    "edited",
-    "eslint",
-    "eslintconfig",
-    "config",
-    "javascript",
-    "styleguide"
-  ],
-  "author": "EDITED",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/EDITD/eslint-config-edited/issues"
-  },
-  "homepage": "https://github.com/EDITD/eslint-config-edited#readme",
-  "peerDependencies": {
-    "babel-eslint": "^6.1.2",
-    "eslint": "^3.5.0",
-    "eslint-plugin-react": "^6.2.1",
-    "eslint-plugin-import": "^1.15.0"
-  },
-  "engines": {
-    "node": ">= 4"
-  },
-  "private": false
+    "name": "eslint-config-edited",
+    "version": "1.0.1",
+    "description": "A shareable ESLint config for the EDITED styleguide",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EDITD/eslint-config-edited"
+    },
+    "keywords": [
+        "edited",
+        "eslint",
+        "eslintconfig",
+        "config",
+        "javascript",
+        "styleguide"
+    ],
+    "author": "EDITED",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/EDITD/eslint-config-edited/issues"
+    },
+    "homepage": "https://github.com/EDITD/eslint-config-edited#readme",
+    "peerDependencies": {
+        "babel-eslint": "^6.1.2",
+        "eslint": "^3.5.0",
+        "eslint-plugin-react": "^6.2.1",
+        "eslint-plugin-import": "^1.15.0"
+    },
+    "engines": {
+        "node": ">= 4"
+    },
+    "private": false
 }
