@@ -1,5 +1,11 @@
 # Changelog
+
 ### Unreleased - leave this line in when you do a release, and leave 1 blank line underneath what you release
 
+## v1.0.1
+
+-   Remove arrow body style rule
+
 ## v1.0.0
-- First public release
+
+-   First public release

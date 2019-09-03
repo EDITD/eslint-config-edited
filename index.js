@@ -10,7 +10,6 @@ module.exports = {
     plugins: ["react", "import"],
     rules: {
         "array-bracket-spacing": [2, "never"],
-        "arrow-body-style": [2, "as-needed", { requireReturnForObjectLiteral: false }],
         "arrow-parens": 2,
         "arrow-spacing": [2, { before: true, after: true }],
         "block-spacing": [2, "always"],
