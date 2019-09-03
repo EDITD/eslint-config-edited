@@ -1,3 +1,17 @@
 {
-  "extends": "./index.js"
+  "extends": "./index.js",
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "printWidth": 100
+      }
+    ],
+    "import/no-nodejs-modules": ["error", { "allow": ["constants"] }],
+    "jest/consistent-test-it": ["error", { "fn": "it" }],
+    "react/prefer-es6-class": ["off"],
+    "react/require-optimization": ["off"]
+  }
 }
