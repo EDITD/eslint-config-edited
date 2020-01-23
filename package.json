@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-edited",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A shareable ESLint config for the EDITED styleguide",
     "main": "index.js",
     "scripts": {},

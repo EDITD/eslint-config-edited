@@ -158,6 +158,7 @@ module.exports = {
             2,
             {
                 order: [
+                    "static-variables",
                     "static-methods",
                     "lifecycle",
                     "/^handle.+$/",
