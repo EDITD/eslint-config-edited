@@ -2,6 +2,10 @@
 
 ### Unreleased - leave this line in when you do a release, and leave 1 blank line underneath what you release
 
+
+## v1.1.0
+- Remove dependencies
+
 ## v1.0.4
 - Update sort-comp to order static-variables
 
